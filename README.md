@@ -6,6 +6,9 @@ The first case focuses on researching the conditions of the Mackenzie Delta regi
 
 Tuktoyaktuk experiences a mixed semidiurnal tide cycle, with two high and two low tides per day of varying heights. Observations from the Canadian Hydrographic Service (CHS) indicate that tidal heights can reach up to 0.86 m, with seasonal variations influenced by sea ice cover and proximity to shore [3]. Data from DeltaCAN and ArcTiCA estimate an approximate tidal range of 0.39 m, highlighting the variability caused by the region's extreme climate conditions. The influence of ice cover on tidal patterns is well-documented by Godin & Barber (1980), who found that during ice-free months, semi-diurnal tidal amplitude increases by 50% compared to ice-covered months, where diurnal components dominate [4]. This seasonal dependence results from ice friction and mass loading, which dampen specific tidal responses.
 
+![Tuktoyaktuk Tide](tides.png)
+Screenshot from station [6485](https://tides.gc.ca/en/stations/6485)
+
 The hamlet of Tuktoyaktuk, located between the Beaufort Sea and the Mackenzie Delta river mouth, experiences an Arctic wave climate driven by seasonal sea and river ice coverage. During ice-free months (typically June–October)[4], wave heights range from 1–3 meters, with wave periods of 8–10 seconds, primarily influenced by distant storm systems. The prevailing wave direction is from the northwest to west, following the dominant fetch over the Beaufort Sea. This wave activity drives longshore sediment transport in a northeast direction, contributing to sandbar and spit formation along the coastline[5].
 
 ### References
