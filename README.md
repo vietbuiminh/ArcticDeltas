@@ -11,7 +11,6 @@ Screenshot from station [6485](https://tides.gc.ca/en/stations/6485)
 
 The hamlet of Tuktoyaktuk, located between the Beaufort Sea and the Mackenzie Delta river mouth, experiences an Arctic wave climate driven by seasonal sea and river ice coverage. During ice-free months (typically June–October)[4], wave heights range from 1–3 meters, with wave periods of 8–10 seconds, primarily influenced by distant storm systems. The prevailing wave direction is from the northwest to west, following the dominant fetch over the Beaufort Sea. This wave activity drives longshore sediment transport in a northeast direction, contributing to sandbar and spit formation along the coastline[5].
 
-
 ### References
 
 [1] Bendixen, M., Roberge, B., Park, J. et al. ‘DeltaCAN - A new data set of Canadian Arctic and subarctic coastal deltas’. Sci Data 12, 119 (2025). https://doi.org/10.1038/s41597-025-04458-2
